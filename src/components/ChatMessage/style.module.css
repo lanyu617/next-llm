@@ -1,0 +1,24 @@
+.chatMessage{
+    width:768px;
+    flex:1;
+    overflow-y: auto;
+}
+.bubble{
+    max-width: 40%;
+    padding: 0.8rem 0.6rem;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+    position: relative;
+    border-radius: 1rem;
+    background-color: #d7dbe3;
+    overflow-wrap: break-word; 
+    white-space: pre-wrap; 
+}
+.returnContent{
+    height: auto;
+    padding: 0.5rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+    overflow-wrap: break-word; 
+    white-space: pre-wrap; 
+}

@@ -1,5 +1,7 @@
-.aaa{
-width:100px;
-height:100px;
-background-color: blanchedalmond;
+.chatPage{
+    height: 100vh;
+    display: flex;
+    
+    flex-direction: column;
+    align-items: center;
 }
